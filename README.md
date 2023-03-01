@@ -1,2 +1,4 @@
-# stats220
-**bold**
+### stats220
+##Project 1 
+#Part A
+
