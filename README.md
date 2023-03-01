@@ -1,4 +1,3 @@
 # **stats220**
-## Project 1 
-### Part A
+## **Project 1 - Part A**
 
