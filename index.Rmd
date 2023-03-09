@@ -1,0 +1,30 @@
+---
+title: "Creating images with R (with a little bit of magick)"
+author: "Joseph Shin"
+date: "2023-03-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE)
+```
+
+## My meme
+
+As a big Harry Potter fan, i have recreated one of the well known popular memes on the internet "You're a wizard Harry". The meme is changed from "You're a wizard Harry" to "You're a unit of power Harry" with Harry replying "I'm a Watt?". I recreated this meme as this is one of my favourite internet memes and somewhat relates to my degree(Bachelor of Science).
+
+![You're a ... Harry](my_meme.png)
+
+
+```{r file='meme.R', eval=FALSE}
+
+```
+
+## My animated GIF
+I have chosen one of mini stories from the Harry Potter series "The Tale of the Three Brothers". This GIF was chosen as this story focuses on themes of Arrogance(Middle Brother), Grief(Left Brother) and Humbleness(Right Brother)
+
+![Tale of the Three Brothers](my_animation.gif)
+```{r file='animation.R', eval=FALSE}
+
+```
+
